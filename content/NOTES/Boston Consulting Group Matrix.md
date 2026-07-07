@@ -5,13 +5,13 @@ Tags: #tool #drawthis
 [[Planning]] !
 Made by the Boston Consulting Group, a world-renowned business strategist group
 
-|                             | High Relative Market Share | Low Relative Market Share |
-| :-------------------------: | :------------------------: | :-----------------------: |
-| **High Market Growth Rate** |           Star ⭐           |      Question Mark ❓      |
-| **Low Market Growth Rate**  |        Cash Cow 🐮         |          Dog 🐶           |
-These can all be mapped on the [[Product Life Cycle]] btw:
+
+
+![[Pasted image 20260707112708.png]]
 If you have a lot of market share in a rapidly growing market, you are a Star! If you have low market share in a rapid market, you're a Question Mark?
 If you have a lot of market hare in a slowly growing market, you're a Cash Cow. If you have little market share in a slow market, you're a a Dog
+
+These can all be mapped on the [[Product Life Cycle]] btw:
 
 ## Actions One Can Pursue Regarding the General Classification of One or Many Goods or Services Provided by The Business One Participates In
 The [[Strategy]] you adopt...

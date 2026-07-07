@@ -2,7 +2,7 @@ ___
 Instructional Area: [[Strategic Management]]
 Tags: #concept 
 
-[[leading]] in [[Teams]] is harder than leading individuals
+[[Leading]] in [[Teams]] is harder than leading individuals
 ## Stages of Group Work
 ==this isn't linear, it goes back and forth often== - known as Punctured Equilibrium
 ![[Pasted image 20260421155042.png]]
