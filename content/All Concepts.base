@@ -1,0 +1,19 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      or:
+        - file.hasTag("concept")
+        - file.hasTag("tool")
+        - file.hasTag("roles")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: cards
+    name: Concepts & Tools
+    filters:
+      or:
+        - file.hasTag("concept")
+        - file.hasTag("tool")
+        - file.hasTag("roles")
+    sort: []

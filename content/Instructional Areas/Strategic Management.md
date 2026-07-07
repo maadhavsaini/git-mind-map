@@ -1,0 +1,3 @@
+instructional area
+this is how you look into the future and develop a strategic plan.
+For Strategic Management, you should use [[SWOT Analysis]] ....
