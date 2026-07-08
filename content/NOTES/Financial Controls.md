@@ -2,7 +2,7 @@ ___
 Instructional Area: [[Strategic Management]]
 Tags: #tool 
 
-Subset of [[Controlling]].
+Subset of [[Controlling]]. Basically related to [[Financial Analysis]]
 Financial controls are mainly about costs. Important for [[Cost Leadership]]-oriented businesses. 
 Budgets - control spending
 Balance sheets - provide a current snapshot of conditions

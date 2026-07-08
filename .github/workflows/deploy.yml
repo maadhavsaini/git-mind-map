@@ -5,7 +5,7 @@ on:
     branches:
       - v5
 env:
-  THEME_NAME: soft-paper
+  THEME_NAME: anuppuccin
 
 permissions:
   contents: read

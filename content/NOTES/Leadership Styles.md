@@ -6,7 +6,7 @@ subset of [[Leading]].
 related to [[Leadership Studies]].
 
 ## THE MAJOR LEADERSHIP STYLES
-they so important each one gets it's own page 🥶
+they're so important each one gets it's own page 🥶
 
 1. [[Transactional Leaders]]
 2. [[Transformational Leaders]]
