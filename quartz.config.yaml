@@ -12,6 +12,12 @@ configuration:
     - private
     - templates
     - .obsidian
+    - "MY DRAWINGS/**"
+    - "MY DRAWINGS"
+    - "TEMPLATE/**"
+    - "TEMPLATE"
+    - "UNFINISHED/**"
+    - "UNFINISHED"
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
