@@ -34,5 +34,9 @@ But the question is,
 –
 You CANNOT eliminate risk, so [[Managers]] have to understand how to deal with it. So, take as much risk as you need to, but not what you don't need to take. 
 
+## Risk Severity
+This is calculated by assessing the risk's impact (the potential damage/benefit), and the probability (likelihood of event happening). Based on this, businesses can prioritize which risks must be dealt with first and with can be delegated/ignored.
+
 [^1]: used when companies have a lot of time and money, and are doing well
 [^2]: used when companies are in a hurry - this is quick, gets to the point as long as it works
+

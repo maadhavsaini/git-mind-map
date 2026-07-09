@@ -1,3 +1,6 @@
+---
+aliases:
+---
 ___
 Instructional Area: [[Strategic Management]]
 Tags: #concept 
