@@ -2,7 +2,7 @@ ___
 Instructional Area: [[Human Resources Management]], [[Strategic Management]], [[Emotional Intelligence]]
 Tags: #concept 
 
-Describes based on how managers feel about their employees. ts under [[Organizing]]
+Describes based on how [[Managers]] feel about their employees. ts under [[Organizing]]
 
 ## Theory X - Authoritarian Approach
 Managers feel that employees work for [[Motivation#Types of Motivation|extrinsic rewards]]. Feel that they must be watched and pushed constantly, as management needs to provide all motivation. They think employees are lazy and will slack off if left alone.
@@ -21,6 +21,6 @@ In this, managers feel that:
 - can solve problems on their own, so let them
 
 large [[Span of Control]], loose [[Closeness of Coupling]], [[Decentralized Organizations]], also [[Servant Management]] & [[Professional Management]]
-> [!warning] theory y is worth it in the long run
+> [!warning] theory y is worth it in the long run, the best option
 
 [^1]: natural

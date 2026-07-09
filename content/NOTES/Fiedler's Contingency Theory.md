@@ -9,7 +9,7 @@ A [[Situational Leaders|Situational Leadership]] strategy. This asserts that:
 - looks at "situational favourableness": how easy or hard it is for a leader to influence their team. yadda yadda blah blah something about Leader-Member relations, Task Structure and Position Power yadda yadda high or low for each yadda yadda
 
 ## Task-Oriented
-managers over here focuses mainly on getting the job done. Useful in extreme scenarios - that means where there is a situation where you have high control or a situation where you have low control.
+[[Managers]] over here focuses mainly on getting the job done. Useful in extreme scenarios - that means where there is a situation where you have high control or a situation where you have low control.
 
 ## Relationship-Oriented
 managers over here focuses mainly on relationships between peoples. a nice sorta guy. great for moderate situations wtih moderate control.

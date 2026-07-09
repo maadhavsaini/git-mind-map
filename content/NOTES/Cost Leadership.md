@@ -12,7 +12,7 @@ Features of a Cost Leader:
 - [[Centralization]]
 - They use [[Centralized Organizations]] as their framework for hierarchy.
 - Little delegation of [[Authority]], everything decided by higher management
-- [[Operations]] and [[Financial Analysis]] are the most important to a Cost Leader, lots of senior managers are from these two areas
+- [[Operations]] and [[Financial Analysis]] are the most important to a Cost Leader, lots of senior [[Managers|managers]] are from these two areas
 - Need to hire followers, people who can motivate employees, and managers
 - Everyone in the org is focused on cost-cutting, and cost is most closely controlled
 - Budgets and spending reports are the most important control tools

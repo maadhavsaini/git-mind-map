@@ -2,7 +2,7 @@ ___
 Instructional Area: [[Strategic Management]]
 Tags: #concept
 
-The third step taken when going through a project. Leading is how managers get employees to do what is needed to finish the project. To do this, leaders must adopt different [[Leadership Styles]] and understand what is required to act, given the situation. 
+The third step taken when going through a project. Leading is how [[Managers]] get employees to do what is needed to finish the project. To do this, leaders must adopt different [[Leadership Styles]] and understand what is required to act, given the situation. 
 
 The question is, how is Leading different from [[Management]]?
 Leadership: individual traits and behaviours

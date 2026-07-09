@@ -32,7 +32,7 @@ But the question is,
 3. They have nothing less to lose (you might as well do it, since you're losing anyways)
 
 –
-You CANNOT eliminate risk, so managers have to understand how to deal with it. So, take as much risk as you need to, but not what you don't need to take. 
+You CANNOT eliminate risk, so [[Managers]] have to understand how to deal with it. So, take as much risk as you need to, but not what you don't need to take. 
 
 [^1]: used when companies have a lot of time and money, and are doing well
 [^2]: used when companies are in a hurry - this is quick, gets to the point as long as it works

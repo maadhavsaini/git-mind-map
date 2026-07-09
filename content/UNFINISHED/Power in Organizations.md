@@ -2,7 +2,7 @@ ___
 Instructional Area: [[Strategic Management]]
 Tags: #concept 
 
-All leaders and managers exercise power, there are many different styles of power
+All leaders and [[Managers]] exercise power, there are many different styles of power
 
 **Coercive Power** - [[Transformational Leaders]] - power to punish
 **Reward Power** - [[Transactional Leaders]] - power to reward

@@ -2,7 +2,7 @@ ___
 Instructional Area: [[Strategic Management]]
 Tags: #concept #tool 
 
-subset of [[Organizing]]. Org Charts show communication between roles and [[Authority]]. However, org charts don't tell you what the role's responsibilities are, the quality of managers, etc etc.
+subset of [[Organizing]]. Org Charts show communication between roles and [[Authority]]. However, org charts don't tell you what the role's responsibilities are, the quality of [[Managers]], etc etc.
 
 ## Classic Line and Staff Organization
 ![[Pasted image 20260414095240.png]]
