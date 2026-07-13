@@ -7,4 +7,6 @@ Another [[Motivation#Theories of Motivation|scientific management]] theory, work
 - Very Strict
 - Works well with [[Specialized Jobs|specialized jobs]] (simple repetitive tasks)
 - For improvement: The best performing worker was observed, and then everyone was taught to work at the same level.
-- 
+- Not very humanizing nor interesting, just treats workers like machines instead of people
+
+This is **not** good. Instead, look towards making your jobs more interesting, through [[Job Design]]!

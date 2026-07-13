@@ -22,8 +22,7 @@ SUMMARY: Differentiation is all about offering something unique to the public th
 
 [^1]: Why do they want this? For a differentiated competitor, the market is not steady, as they can be upturned at any moment. They need to be on top of current events, and act proactively so that they continue to run. If all decisions are made up at high management, it takes a long time for them to receive information of changes and even longer to create a decision. For example, if a client wants a custom car, they don't escalate the situation super duper high to corporate. Instead, the regional manager will make the decision to do it or no, which makes the business more flexible and adept to change. 
 
-[^2]: Bro you don't know him like that
 
 [[Organizational Charts and Designs#Product Organization]] is the main thing they use. They also use [[Decentralized Organizations|a decentralized]] framework[^3].
 
-[^3]: For the whole md, average words per sentence: 24.5. 24 words with three syllables. So Numbers of Schooling required to read this: 19.4. i object
+[^3]: For the whole md, average words per sentence: 24.5. 24 words with three syllables. So Numbers of Schooling required to read this: 19.4. i object. This was a trial of the [[Fog Index]]
