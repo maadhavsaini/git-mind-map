@@ -16,8 +16,6 @@ configuration:
     - "MY DRAWINGS"
     - "TEMPLATE/**"
     - "TEMPLATE"
-    - "UNFINISHED/**"
-    - "UNFINISHED"
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
