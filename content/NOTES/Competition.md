@@ -13,4 +13,4 @@ The rivalry between companies to win over customers by offering the best combina
 4. Monopoly
    One single business controls the entire market with no substitutes (local utility company)
 
-Competition is good because it fosters innovation between companies.
+Competition is good because it fosters innovation between companies. It encourages businesses to operate as efficiently as possible.

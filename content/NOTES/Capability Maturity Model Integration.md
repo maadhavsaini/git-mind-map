@@ -1,3 +1,7 @@
+---
+aliases:
+  - CMMI
+---
 ___
 Instructional Area: [[Operations]], [[Information Management]], [[Strategic Management]]
 Tags: #tool 

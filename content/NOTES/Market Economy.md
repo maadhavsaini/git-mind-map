@@ -3,7 +3,8 @@ Instructional Area: [[Economics]]
 Tags: #concept
 
 One of the [[Economic Systems]].
-The decisions on what to produce, how to produce it, and who it is produced for ( [[Three Fundamental Economic Questions]] 👀) %%bazinga%% are made by individuals and businesses, not by the government. The market controls.
+The decisions on what to produce, how to produce it, and who it is produced for ( [[Three Fundamental Economic Questions]] 👀) 
+are made by individuals and businesses, not by the government. The market controls.
 Core Idea:[[ Supply and Demand]]. Prices rise and fall based on how much is available (supply) and how much people want it (demand).
 
 Key Features of a market economy:
